@@ -25,7 +25,7 @@ You need to have the Flutter SDK installed on your machine. For instructions on 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/therokibul/Resume-Builder.git)
+    git clone https://github.com/therokibul/Resume-Builder.git
     cd resume-builder
     ```
 
